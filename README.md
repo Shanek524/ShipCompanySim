@@ -1,0 +1,1 @@
+THE RESALE OF THIS CODE IS NOT ALOUD-Ninja Developments
