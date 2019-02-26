@@ -7,6 +7,7 @@ const playBtn = document.getElementById('playBtn')
 playBtn.addEventListener('click', function(event){
     const modalPath = path.join('file://', __dirname, 'game.html')
     let win = new BrowserWindow({autoHideMenuBar: true, fullscreen: true})
+    win.webContents.openDevTools()
     win.loadURL(modalPath)
     win.show()
 })
