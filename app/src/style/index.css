@@ -1,0 +1,13 @@
+body{
+    background: cadetblue;
+    position: relative;
+    top: 100px;
+}
+
+.menu input[type='button']{
+    background: rgb(199, 133, 72);
+    height: 30px;
+    width: 70px;
+    border: none;
+    border-radius: 25px;
+}
